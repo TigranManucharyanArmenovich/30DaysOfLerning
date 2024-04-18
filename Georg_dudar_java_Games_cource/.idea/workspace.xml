@@ -7,6 +7,7 @@
     <list default="true" id="8bb38e97-752f-4c63-a5b9-e69800461751" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/georg_dudar_java_games_cource/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/georg_dudar_java_games_cource/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/georg_dudar_java_games_cource/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/georg_dudar_java_games_cource/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
