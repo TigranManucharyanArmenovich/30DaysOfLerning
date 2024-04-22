@@ -1,6 +1,6 @@
-package CodeMuJava.Level4;
+package CodeMuJava.Level5;
 
-public class Work1 {
+public class Work2 {
     public static void main(String[] args) {
         Work2.Exercise work = new Work2.Exercise();
 

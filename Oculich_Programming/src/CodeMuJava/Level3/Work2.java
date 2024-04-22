@@ -17,6 +17,9 @@ public class Work2 {
 
         System.out.println();
         work.ex4();
+
+        System.out.println();
+        work.ex5();
     }
 
     public static class  Exercise{
@@ -105,6 +108,11 @@ public class Work2 {
             String str = "abc def jhi";
 
             String[] words = str.split(" ");
+
+            String ResultArray = Arrays.toString(words);
+
+
+            System.out.println("Массив из слов в строке: " + ResultArray );
 
         }
     }

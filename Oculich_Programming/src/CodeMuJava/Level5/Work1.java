@@ -1,4 +1,6 @@
-package CodeMuJava.Level4;
+package CodeMuJava.Level5;
+
+import CodeMuJava.Level4.Work2;
 
 public class Work1 {
     public static void main(String[] args) {
