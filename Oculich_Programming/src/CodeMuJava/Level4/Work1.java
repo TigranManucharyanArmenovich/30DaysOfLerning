@@ -10,7 +10,7 @@ public class Work1 {
 
     public static class  Exercise{
         public  void ex1(){
-            System.out.println("Задание 12");
+            System.out.println("Задание 1");
             System.out.println("Дана некоторая строка с буквами и цифрами. Получите позицию первой цифры в этой строке");
 
             String str = "arae23sfsd";

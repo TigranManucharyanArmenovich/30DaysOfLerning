@@ -9,11 +9,12 @@ public class Work1 {
         String line = "Я люблю программировать";
 
         System.out.println();
-        work.ex1TextWriter(line);
+        //work.ex1TextWriter(line);
         work.ex1TextReader();
     }
 
     public static class Exercise {
+        //То был эксперемент чтобы узнать как работате мунипуляция файлами
         public void ex1TextWriter(String str) {
 
             try(FileWriter writer = new FileWriter("notes3.txt", false))

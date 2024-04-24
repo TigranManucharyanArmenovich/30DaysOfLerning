@@ -1,6 +1,5 @@
 package CodeMuJava.Level7;
 
-import java.time.LocalDate;
 import java.util.Scanner;
 
 public class Work2 {
@@ -8,7 +7,7 @@ public class Work2 {
         Exercise work = new Exercise();
         Scanner scan = new Scanner(System.in);
         System.out.println("Задание 1");
-        System.out.println("Выведите название завтрашнего дня недели.");
+        System.out.println("Сделайте метод, который параметром будет принимать число и удалять из него нули.");
 
         System.out.println();
 

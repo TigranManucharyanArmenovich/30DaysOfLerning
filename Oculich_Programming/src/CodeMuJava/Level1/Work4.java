@@ -23,7 +23,7 @@ public class Work4 {
 
             String str = "";
 
-            for (int i = 1; i <= 10; i++){
+            for (int i = 1; i <= 100; i++){
                 if ((i % 2) ==0){
                     str += i + " ";
                 }
