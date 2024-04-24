@@ -64,6 +64,7 @@ public class Work1 {
 
             String str = "я люблю программирование!";
 
+            System.out.println(str);
             System.out.println("Последний символ строки: " + str.charAt(str.length()-1));
         }
 
@@ -108,7 +109,7 @@ public class Work1 {
             System.out.println("Дано слово. Получите его последнюю букву. \n" +
                                "Если слово заканчивается на мягкий знак, то получите предпоследнюю букву.");
 
-            String word = "Пись";
+            String word = "Джава";
 
             System.out.println("Для примера взял слово: " + word);
             if (word.charAt(word.length()-1) == 'ь') {
