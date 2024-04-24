@@ -13,9 +13,10 @@ public class Work1 {
     public static class Exercise {
         public void ex1() {
             System.out.println("Задание 1");
-            System.out.println("Выведите название завтрашнего дня недели.");
+            System.out.println("Сделайте метод, который вернет текущий день недели словом.");
+            System.out.println();
 
-
+            System.out.println(String.valueOf(LocalDate.now().getDayOfWeek()));
         }
     }
 }
