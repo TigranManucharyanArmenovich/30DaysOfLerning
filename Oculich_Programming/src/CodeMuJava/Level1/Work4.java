@@ -34,7 +34,22 @@ public class Work4 {
 
         public void ex2(){
             System.out.println("Задание 2");
-            System.out.println(" ");
+            System.out.println("Дана некоторая строка:\n" +
+                    "\n" + "String str = \"abcde\";\n" +
+                    "Переберите и выведите в консоль по очереди все символы с конца строки.");
+            System.out.println();
+
+            String str = "abcde";
+            String ReversStr = "";
+
+            int index;
+
+            for (int i = str.length() - 1; i >= 0; i--){
+
+                ReversStr += "" + str.charAt(i);
+            }
+
+            System.out.println(ReversStr);
 
 
         }
